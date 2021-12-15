@@ -5,7 +5,7 @@
 **KarthikKollapureddy/KarthikKollapureddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3> Hello Welcome to my Git-Hub profile.</h3><br>
-I'm an enthusiastic programmer. I'm still learning and exploring depths of python(🐍). <br>I would like to collaborate with other programmers out there and exchange ideas if solving the problems.<br>
+I'm an enthusiastic programmer. I'm still learning and exploring depths of python(🐍). <br>I would like to collaborate with other programmers out there and exchange ideas of solving the problems.<br>
 <br><p><strong>
 - 🧑🏻‍🎓 I'm an undergraduate pursuing my studies in<i> Electronics and Communication Engineering</i> at <a href ="https://pragati.ac.in/">Pragati Enginering College</a><br>
 - 🌱 I’m currently learning <i>Python, HTML, CSS, C++</i><br>
