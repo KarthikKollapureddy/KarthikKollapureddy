@@ -1,4 +1,4 @@
-![nerd_face](https://user-images.githubusercontent.com/89505668/146149685-d428ca51-e068-4b97-b8c4-830c53c6b4ee.gif)<h1><p align = "center">Hey! Nice to see You</p></h1>
+<img width = 200px;![nerd_face](https://user-images.githubusercontent.com/89505668/146149685-d428ca51-e068-4b97-b8c4-830c53c6b4ee.gif)><h1><p align = "center">Hey! Nice to see You</p></h1>
 ![IMG_20210824_130527_450 (1)](https://user-images.githubusercontent.com/89505668/146146536-8cf3f0b1-b0ff-4146-af25-7d03783dc3c0.png)
 
 <!--
