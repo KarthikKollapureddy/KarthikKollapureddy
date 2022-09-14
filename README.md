@@ -1,5 +1,6 @@
-<h1><p align = "center">Hey! Nice to see You</p></h1>
-![IMG_20210824_130527_450 (1)](https://user-images.githubusercontent.com/89505668/146146536-8cf3f0b1-b0ff-4146-af25-7d03783dc3c0.png)
+<h1 align = "center">Hey! Nice to see You</h1>
+
+![GitHub](https://user-images.githubusercontent.com/89505668/190187998-cb2fe247-ede3-4a93-9ca7-ca33c3dd8a34.png)
 
 <!--
 **KarthikKollapureddy/KarthikKollapureddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +8,9 @@
 <h3> Hello Welcome to my Git-Hub profile.</h3><br>
 I'm an enthusiastic programmer. I'm still learning and exploring depths of python(🐍). <br>I would like to collaborate with other programmers out there and exchange ideas of solving the problems.<br>
 <br><p><strong>
-- 🧑🏻‍🎓 I'm an undergraduate pursuing my studies in<i> Electronics and Communication Engineering</i> at <a href ="https://pragati.ac.in/">Pragati Enginering College</a><br>
-- 🌱 I’m currently learning <i>Python, HTML, CSS, C++</i><br>
-- 👯 I’m looking to collaborate on<i> Problem solving using python</i><br>
+- 🧑🏻‍🎓 I have completed my undergraduation in<i> Electronics and Communication Engineering</i> at <a href ="https://pragati.ac.in/">Pragati Enginering College</a><br>
+- 🌱 I’m currently learning <i>Java, HTML5, CSS3, Angular, Spring-Boot</i><br>
+- 👯 I’m looking to collaborate on<i>Java Full-Stack applications</i><br>
 - 📫 How to reach me: <label>Text me @ </label><a href="https://www.linkedin.com/in/karthik-kollapureddy-7939241b0/">Linkedin</a><br>
 - 😄 Pronouns: He/Him/His<br>
 - ⚡ Intresting fact:<i> Everything in this World is an object</i>.</strong></P>
