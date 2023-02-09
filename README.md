@@ -12,7 +12,7 @@ I'm an enthusiastic programmer. I'm still learning and exploring depths of pytho
 - 🌱 I’m currently learning <i>Java, HTML5, CSS3, Angular, Spring-Boot</i><br>
 - 👯 I’m looking to collaborate on<i>Java Full-Stack applications</i><br>
 - 📫 How to reach me: <label>Text me @ </label><a href="https://www.linkedin.com/in/karthik-kollapureddy-7939241b0/">Linkedin</a><br>
-- 😄 Pronouns: He/Him/His<br>
+- 😄 Pronouns: He/Him<br>
 - ⚡ Intresting fact:<i> Everything in this World is an object</i>.</strong></P>
 <br>
 <h2><p align = "center"> Let's connect and chat! I love connecting with different people, I'm open to anything under the sky. </p></h2>
