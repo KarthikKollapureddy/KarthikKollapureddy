@@ -66,7 +66,7 @@ I am a motivated **Java Full Stack Developer** with approximately **3.5 years** 
         <li>🏗️ Architecting scalable <strong>Spring Boot</strong> microservices.</li>
         <li>🏥 Developing mission-critical Healthcare provider portals.</li>
         <li>📦 Engineering real-time <strong>Logistics Tracking</strong> systems.</li>
-        <li>⚡ Improved backend services perforamce using **Java 21**.</li>
+        <li>⚡ Improved backend services perforamce using <strong>Java 21</strong>.</li>
         <li>💰 Improving release efficiency via <strong>BDD automation</strong>.</li>
       </ul>
     </td>
